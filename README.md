@@ -1,1 +1,2 @@
-# inteligencia_artificial
+# Priscilla Hurtado Mijares
+# 20760537
